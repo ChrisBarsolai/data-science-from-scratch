@@ -3,7 +3,7 @@ A collection of notebooks based on "Data Science From Scratch" 2nd Edition (O'Re
 
 ![DSFS](https://user-images.githubusercontent.com/14905480/76091893-7ee49500-5fcf-11ea-980f-21acf71f6f1a.jpg)
 
-Code and examples from the second edition of my book Data Science from Scratch. They require at least Python 3.6. To be continually updated as I progressively read the book.
+Code and examples from the second edition of the book Data Science from Scratch. They require at least Python 3.6. To be continually updated as I progressively read the book.
 
 Data science libraries, frameworks, modules, and toolkits are great for doing data science, but they’re also a good way to dive into the discipline without actually understanding data science. In the book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.
 
